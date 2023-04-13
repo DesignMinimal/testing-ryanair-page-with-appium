@@ -1,0 +1,19 @@
+[
+    {
+      "username": "yordankakehayovagocheva@gmail.com",
+      "password": "P4ssw0rd!",
+      "isValidData": "true"
+    },
+  {
+    "username": "invalidName",
+    "password": "P4ssw0rd!",
+    "isValidData": "false",
+    "isEmailCorrect": "false"
+  },
+  {
+    "username": "yordankakehayovagocheva@gmail.com",
+    "password": "invalidPassowrd!",
+    "isValidData": "false",
+    "isEmailCorrect": "true"
+  }
+]
